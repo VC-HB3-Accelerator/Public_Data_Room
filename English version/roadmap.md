@@ -1,0 +1,429 @@
+# VC HB3 Accelerator Project Roadmap
+
+**Version:** 2.0  
+**Last updated:** 2025-01-27  
+**Status:** Active Development
+
+---
+
+## Overview
+
+The roadmap describes the strategic development plan for VC HB3 Accelerator over the next 5 years through an iterative growth model: legal entity registration in a country → software deployment → marketing and sales → expansion to a new country from profits. Goal — achieving planned accelerator indicators (280 groups, 21,000+ entrepreneurs in first accelerator, **vision of the future:** 40% of all entrepreneurs worldwide by year 5 — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)), selection and investments in 600 portfolio companies from accelerator participants (stages from Pre-seed to ICO) — see [conservative scenarios](for-investors.md#example-4-investment-100-000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years), and creation of a global asset tokenization ecosystem.
+
+> ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).
+
+---
+
+## Phase 0: Current State (2024-2025)
+
+### ✅ Completed
+
+- **DLE Platform Development:**
+  - Frontend application (Vue.js)
+  - Backend system (Node.js/JavaScript)
+  - Smart contracts (Solidity, ERC-20)
+  - AI components (Ollama, FAISS, RAG)
+  - Docker containers for deployment
+
+- **Functional Readiness:**
+  - Token emission management
+  - Automated reporting for regulators
+  - AI assistant with local models
+  - Stablecoin payment acceptance
+  - Transparent accounting 24/7
+  - Multi-level security
+
+- **Commercial Activity:**
+  - Open GitHub repository
+  - License sales through LLC "ERAITI" (Russia)
+  - Platform use for fund asset management
+
+- **Infrastructure:**
+  - EVM network support
+  - Readiness for custom L2 chains
+  - API, SDK, connectors for integrations
+
+---
+
+## Growth Model: Iterative Expansion Cycle
+
+### Growth Cycle in Each Country
+
+**Step 1: Legal Entity Registration**
+- Registration of operator company in country (similar to LLC "ERAITI" in Russia)
+- Obtaining necessary licenses and permits
+- Creating local presence
+
+**Step 2: Software Deployment**
+- DLE platform deployment on local hosting provider servers
+- Infrastructure configuration
+- Preparation for sales
+
+**Step 3: Marketing and Client Attraction**
+- Launch of advertising campaigns for entrepreneurs
+- Use of AI assistant to find companies by business activity type
+- Personalized proposals to companies
+
+**Step 4: Sales and Group Formation**
+- Search for minimum 2+ software buyers per business activity type
+- Group formation by business activity
+- Company registration in VC HB3 Accelerator application groups
+- DLE smart contract deployment for participants
+
+**Step 5: Profit Reinvestment**
+- From sales profits, legal entity registration in new country
+- Cycle repetition until achieving planned accelerator indicators
+
+**Step 6: Work with Regulator (After Gathering Groups)**
+- Fund approaches local regulator with proposal
+- Proposal: invest profits in creating local L2 chain
+- Goal: tokenization of fund and legal entities using local identifiers
+- Regulator provides set of identifiers (legal address, business activity code, etc.)
+- Company adds identifiers to DLE application
+
+**Step 7: Regulator Refusal Handling**
+- If regulator refuses, refund conditions apply
+- Alternative: token holders determine new path through on-chain voting
+- Possible options: continue work without L2, search for alternative solutions, exit country
+
+---
+
+## Phase 1: Launch in Russia and First Cycle (Q4 2025)
+
+### Current State in Russia
+
+- ✅ **LLC "ERAITI"** — already created and operating
+- ✅ DLE software deployment on hosting
+- ✅ License sales started
+
+### Phase 1 Tasks
+
+1. **Scaling in Russia:**
+   - Launch active advertising campaign for entrepreneurs
+   - Search for 2+ buyers per business activity type
+   - Formation of first groups by business activity
+   - DLE smart contract deployment for participants
+
+2. **Governance Token Deployment:**
+   - Deployment of 3,000,000 VC HB3 Accelerator governance tokens
+   - On-chain voting system configuration
+   - Fund treasury creation
+
+3. **Participant Attraction:**
+   - Start of governance token sales to LP investors (up to 30%)
+   - Attraction of first contractors (token holders)
+   - Formation of client and contractor community
+
+4. **Expansion Preparation:**
+   - Profit accumulation for registration in next country
+   - Selection of next country for expansion
+   - Document and plan preparation
+
+### Success Metrics
+
+- ✅ Active advertising launched in Russia
+- ✅ Found 2+ buyers for minimum 70 business activity types
+- ✅ Formed 10+ groups by business activity
+- ✅ Deployed 3,000,000 governance tokens
+- ✅ Accumulated profit for registration in next country
+
+---
+
+## Phase 2: Expansion and Group Accumulation (Q4 2025 - Q4 2026)
+
+### Goals
+
+- Launch iterative expansion cycle to new countries
+- Accumulate sufficient number of groups for work with regulators
+- Form first accelerator cohorts
+
+### Key Tasks
+
+1. **Expansion to New Countries (Iterative Cycle):**
+   - Legal entity registration in country #2 (from Russia profits)
+   - Search for contributors among local companies to accelerate process
+   - DLE software deployment on local hosting
+   - Launch advertising and search for 2+ buyers per business activity type
+   - Group formation and smart contract deployment
+   - Legal entity registration in country #3 (from country #2 profits)
+   - Cycle repetition with local contributor attraction
+
+2. **Group Accumulation:**
+   - Goal: minimum 280 groups by business activity (4 cohorts × 70 groups)
+   - Group distribution among countries
+   - Company registration in application groups
+
+3. **Work with First Regulators:**
+   - After gathering sufficient number of groups in country
+   - Approach local regulator with proposal
+   - Proposal: creation of local L2 chain for tokenization of business assets and regulator money supply
+   - Receiving identifiers from regulator (if agreement)
+   - Adding identifiers to DLE application
+
+4. **Regulator Refusal Handling:**
+   - If regulator refuses — apply refund conditions
+   - Alternative: on-chain voting of token holders to determine new path
+   - Strategy adaptation depending on decision
+
+5. **Educational Program:**
+   - Online sessions with fund partners
+   - Research meetings on industry specifics
+   - Master classes on solution configuration
+   - Market analytics and trends
+
+### Success Metrics
+
+- ✅ Opened 100+ legal entities in different countries
+- ✅ Formed 280+ groups by business activity (4 cohorts)
+- ✅ Conducted negotiations with 100% of regulators
+- ✅ Received agreement from minimum 1% of regulators to create L2 chain
+
+---
+
+## Phase 3: Entrepreneur Support (Q1 2027 - Q4 2030)
+
+### Goals
+
+- Achieve all 5-year plan target indicators
+- Create global asset tokenization ecosystem
+- Ensure long-term project sustainability
+
+### Key Tasks
+
+1. **Final Investments:**
+   - Selection and investments in 600 portfolio companies from accelerator participants
+   - Investment stages: from Pre-seed to ICO
+   - Governance token portfolio optimization
+   - Investment return maximization
+   - **Goal:** Collect and sell portfolio over 5 years to launch next accelerator
+
+2. **Global Presence:**
+   - Continuation of iterative expansion cycle
+   - Creation of full global network
+   - Establishment of partnerships with key regulators
+
+3. **Ecosystem Maturity:**
+   - Fully self-sustaining ecosystem
+   - Automated governance through AI
+   - Sustainable profit distribution model (15% / 15% / 70%)
+
+4. **Long-Term Sustainability:**
+   - Ensuring liquidity of 3,000,000 governance tokens
+   - Stable dividend flow for investors
+   - Continued platform and ecosystem development
+
+### Success Metrics
+
+- ✅ Invested in 600 portfolio companies
+- ✅ Created global asset tokenization ecosystem
+- ✅ Ensured liquidity of all governance tokens
+- ✅ Sustainable dividend flow (15% of treasury receipts)
+
+---
+
+## Iterative Expansion Cycle (Detailed)
+
+### Step 1: Legal Entity Registration
+
+**Process:**
+- Country selection based on market analysis and regulatory environment
+- Search for contributors among local companies to accelerate registration and deployment
+- Operator company registration (similar to LLC "ERAITI")
+- Obtaining necessary licenses and permits
+- Creating local presence
+
+**Funding:**
+- From previous country profits (15% expenses)
+- Or from capital raised from LP investors
+
+**Time:** 1-3 months
+
+### Step 2: Software Deployment
+
+**Process:**
+- Hosting rental from local providers
+- DLE platform deployment on servers
+- Infrastructure configuration
+- Preparation for sales
+
+**Requirements:**
+- Compliance with data localization requirements
+- Reduced latency for local clients
+- Scalability readiness
+
+**Time:** 1-2 weeks
+
+### Step 3: Marketing and Client Attraction
+
+**Process:**
+- Launch of advertising campaigns for entrepreneurs
+- Use of AI assistant to find companies by business activity type
+- Personalized proposals to companies
+- Platform functionality demonstration
+
+**Goal:**
+- Find minimum 2+ buyers per business activity type
+- Form groups by business activity
+
+**Time:** 2-4 months
+
+### Step 4: Sales and Group Formation
+
+**Process:**
+- License sales (Standard: 1,000 USDT, Premium: 10,000 USDT)
+- Company registration in VC HB3 Accelerator application groups
+- DLE smart contract deployment for participants
+- Software configuration for activity specifics
+
+**Result:**
+- Groups by business activity
+- Acceleration program participants
+- Receipts to fund treasury
+
+**Time:** 3-6 months
+
+### Step 5: Profit Reinvestment
+
+**Process:**
+- Profit accumulation from sales
+- Selection of next country for expansion
+- Legal entity registration in new country
+- Cycle repetition
+
+**Funding:**
+- 15% expenses from overall profit distribution scheme
+- Used for registration and deployment
+
+**Time:** Continuous process
+
+### Step 6: Work with Regulator
+
+**Conditions:**
+- After gathering sufficient number of groups in country
+- Minimum 70 groups (for first cohort) or more
+
+**Process:**
+- Fund approaches local regulator with proposal
+- Proposal: creation of local L2 chain for tokenization of business assets and regulator money supply
+- Goal: tokenization of fund and legal entities using local identifiers
+- Regulator provides set of identifiers (legal address, business activity code, etc.)
+- Company adds identifiers to DLE application
+- Creation of custom L2 chain for regulator
+
+**Result:**
+- Regulator integration
+- Local L2 chain
+- Use of local identifiers
+
+**Time:** 3-6 months of negotiations and implementation
+
+### Step 7: Regulator Refusal Handling
+
+**Conditions:**
+- If regulator refuses to create L2 chain
+
+**Action Options:**
+
+**Option 1: Refund Conditions**
+- Refund conditions apply for clients
+- Client retains right to use software
+- Software remains with client in full
+
+**Option 2: On-Chain Voting of Token Holders**
+- Token holders determine new path through on-chain voting system
+- Possible options:
+  - Continue work without L2 chain
+  - Search for alternative solutions
+  - Exit country
+  - Strategy reorientation
+
+**Time:** 1-2 months for decision-making
+
+---
+
+## Resource Allocation
+
+### Financial Resources
+
+**Treasury Receipts:**
+- Software sales profit (licenses)
+- Portfolio company governance token sales profit (exits)
+- Capital raised from LP investors
+
+**Initial Treasury Balance:**
+- From token sales to first accelerator entrepreneurs: 84,000,000 USDT
+- From governance token sales to LPs (30%): 900,000,000 USDT
+- **Total: 984,000,000 USDT**
+
+**Distribution (15% / 15% / 70%):**
+- **15%** — dividends to VC HB3 Accelerator token holders
+- **15%** — expenses (legal entity registration, contractors, acceleration programs, operational costs)
+- **70%** — startup investments (selection of 600 companies from accelerator participants, stages from Pre-seed to ICO)
+
+**Reinvestment:**
+- From 15% expenses, legal entity registration in new countries is funded
+- From 15% expenses, hosting rental is funded
+- From 15% expenses, contractors and acceleration programs are funded
+
+### Human Resources
+
+- **Founder:** Strategic leadership and development
+- **AI Assistant:** Process automation and scaling
+- **Token Holders:** Contractors and clients ensuring support and development
+- **Regional Operators:** Local presence and regulatory compliance
+
+---
+
+## Risks and Mitigation
+
+### Main Risks
+
+1. **Regulatory Risks:**
+   - Regulator refusals to create L2 chains
+   - Changes in regulator requirements
+   - Registration delays in some jurisdictions
+   - **Mitigation:**
+     - Refund conditions for clients
+     - On-chain voting of token holders to determine new path
+     - Flexible platform architecture
+     - Close cooperation with regulators
+
+2. **Financial Risks:**
+   - Insufficient profit for expansion to new country
+   - Slow sales growth
+   - **Mitigation:**
+     - Capital attraction from LP investors
+     - Expense optimization
+     - Focus on efficient markets
+
+3. **Technological Risks:**
+   - Vulnerabilities in smart contracts
+   - Scaling issues
+   - **Mitigation:**
+     - Regular audits, open source code, testing
+
+4. **Market Risks:**
+   - Low demand for asset tokenization
+   - Insufficient buyers (less than 2 per business activity type)
+   - **Mitigation:**
+     - Educational program, unique value proposition
+     - Use of AI assistant to find clients
+     - Strategy adaptation through on-chain voting
+
+5. **Operational Risks:**
+   - Lack of qualified contractors
+   - Support issues
+   - **Mitigation:**
+     - Token holder system, AI automation, training
+
+---
+
+## Contacts
+
+Detailed contact information: [CONTACTS.md](CONTACTS.md)
+
+---
+
+**Last updated:** 2025-01-27  
+**Version:** 2.0 (Iterative Growth Model)  
+**Next Review:** Q2 2025
