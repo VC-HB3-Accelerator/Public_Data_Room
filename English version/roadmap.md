@@ -6,6 +6,27 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Phase 0: Current State (2024-2025)](#phase-0-current-state-2024-2025)
+- [Growth Model: Iterative Expansion Cycle](#growth-model-iterative-expansion-cycle)
+  - [Growth Cycle in Each Country](#growth-cycle-in-each-country)
+- [Phase 1: Launch in Russia and First Cycle (Q4 2025)](#phase-1-launch-in-russia-and-first-cycle-q4-2025)
+- [Phase 2: Expansion and Group Accumulation (Q4 2025 - Q4 2026)](#phase-2-expansion-and-group-accumulation-q4-2025---q4-2026)
+- [Phase 3: Entrepreneur Support (Q1 2027 - Q4 2030)](#phase-3-entrepreneur-support-q1-2027---q4-2030)
+- [Contacts](#contacts)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [💻 Software Status](software-status.md) →
+
+---
+
 ## Overview
 
 The roadmap describes the strategic development plan for VC HB3 Accelerator over the next 5 years through an iterative growth model: legal entity registration in a country → software deployment → marketing and sales → expansion to a new country from profits. Goal — achieving planned accelerator indicators (280 groups, 21,000+ entrepreneurs in first accelerator, **vision of the future:** 40% of all entrepreneurs worldwide by year 5 — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)), selection and investments in 600 portfolio companies from accelerator participants (stages from Pre-seed to ICO) — see [conservative scenarios](for-investors.md#example-4-investment-100-000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years), and creation of a global asset tokenization ecosystem.
@@ -225,3 +246,12 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 **Last updated:** 2025-01-27  
 **Version:** 2.0 (Iterative Growth Model)  
 **Next Review:** Q2 2025
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [💻 Software Status](software-status.md) →
+- [↑ Back to Top](#table-of-contents)

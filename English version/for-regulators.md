@@ -7,6 +7,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [💻 Software Status](software-status.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [💻 Software Status](software-status.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →
+
+---
+
 ## Table of Contents
 
 1. [About the Project](#1-about-the-project)
@@ -338,6 +354,14 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 ---
 
-**Last updated:** 2025-01-27  
+**Last updated:** 2025-01-27
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [💻 Software Status](software-status.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →  
 **Version:** 1.0  
 **Status:** Cooperation proposal for regulators

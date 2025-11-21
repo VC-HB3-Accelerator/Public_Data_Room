@@ -108,6 +108,10 @@ Complete documentation package in English with full navigation.
 
 ## 📚 Complete Documentation
 
+> 📍 **Documentation Maps:** 
+> - [English Documentation Map](English%20version/DOCUMENTATION_MAP.md) - Complete overview and reading paths
+> - [Русская карта документации](Версия%20на%20русском/DOCUMENTATION_MAP.md) - Полный обзор и пути чтения
+
 Each language version contains comprehensive documentation organized by category:
 
 - **📋 Main Documents:** Investment opportunities, business model, roadmap, software status

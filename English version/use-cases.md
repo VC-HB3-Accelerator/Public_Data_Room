@@ -5,6 +5,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [👨‍💻 For Contractors](for-contractors.md)
+- [💻 Software Status](software-status.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [👨‍💻 For Contractors](for-contractors.md)
+- [💻 Software Status](software-status.md) →
+
+---
+
 ## DLE Platform Use Cases for Entrepreneurs
 
 ### Example 1: Small Business Tokenization
@@ -179,3 +195,11 @@ For more details: [for-regulators.md](for-regulators.md)
 
 **Last updated:** 2025-01-27  
 **Version:** 1.0
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [👨‍💻 For Contractors](for-contractors.md)
+- [💻 Software Status](software-status.md) →

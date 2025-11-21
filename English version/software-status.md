@@ -1,5 +1,13 @@
 # DLE Software Development and Usage Status
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [👨‍💻 For Contractors](for-contractors.md)
+- [📊 Business Model](business-model.md) →
+
+---
+
 ## Table of Contents
 
 1. [Author and Developer](#1-author-and-developer)
@@ -256,6 +264,14 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 ---
 
-**Last updated:** 2025-01-27  
+**Last updated:** 2025-01-27
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [👨‍💻 For Contractors](for-contractors.md)
+- [📊 Business Model](business-model.md) →  
 **Version:** 3.0  
 **Status:** Centralized document on DLE software development and usage status

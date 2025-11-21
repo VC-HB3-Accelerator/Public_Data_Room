@@ -5,6 +5,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📊 Business Model](business-model.md) →
+- [💰 Financial Calculations](financial-calculations.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📊 Business Model](business-model.md) →
+- [💰 Financial Calculations](financial-calculations.md) →
+
+---
+
 ## Governance Token Distribution
 
 ### Ownership Structure
@@ -154,3 +170,11 @@
 
 **Last updated:** 2025-01-27  
 **Version:** 1.0
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📊 Business Model](business-model.md) →
+- [💰 Financial Calculations](financial-calculations.md) →

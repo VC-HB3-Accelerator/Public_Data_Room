@@ -5,6 +5,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 Acceleration Program](accelerator-program.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 Acceleration Program](accelerator-program.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →
+
+---
+
 ## What is VC HB3 Accelerator?
 
 VC HB3 Accelerator is a venture fund and business tokenization platform that helps entrepreneurs turn their business into digital assets, attract investments, and scale their company in a global ecosystem.
@@ -322,3 +338,11 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ---
 
 **Last updated:** 2025-01-27
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 Acceleration Program](accelerator-program.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →

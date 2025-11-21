@@ -9,6 +9,32 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Market Size](#market-size)
+  - [TAM (Total Addressable Market)](#tam-total-addressable-market)
+  - [SAM (Serviceable Available Market)](#sam-serviceable-available-market)
+  - [SOM (Serviceable Obtainable Market)](#som-serviceable-obtainable-market)
+- [Potential Customer Base](#potential-customer-base)
+- [Asset Tokenization Demand Justification](#asset-tokenization-demand-justification)
+- [Forecast Justification: From Conservative (10%) to Optimistic (40%) Scenarios](#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
+  - [Development Forecast](#development-forecast)
+  - [Conservative Scenario (10%)](#conservative-scenario-10)
+  - [Optimistic Scenario (40%)](#optimistic-scenario-40)
+- [Competitive Analysis](#competitive-analysis)
+- [Additional Materials](#additional-materials)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →
+
+---
+
 ## Market Size
 
 ### TAM (Total Addressable Market)
@@ -239,3 +265,13 @@
 
 **Last updated:** 2025-01-27  
 **Version:** 1.0
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →
+- [↑ Back to Top](#table-of-contents)

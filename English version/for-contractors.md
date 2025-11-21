@@ -5,6 +5,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📋 Use Cases](use-cases.md)
+- [💻 Software Status](software-status.md) →
+- [📊 Business Model](business-model.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📋 Use Cases](use-cases.md)
+- [💻 Software Status](software-status.md) →
+- [📊 Business Model](business-model.md) →
+
+---
+
 ## Who Are Contractors in the VC HB3 Accelerator Ecosystem?
 
 Contractors are VC HB3 Accelerator governance token holders who complete tasks for development, customization, configuration, and support of the Digital Legal Entity (DLE) platform for clients. Contractors receive payment from the project treasury and participate in platform development governance through the on-chain voting system.
@@ -396,3 +412,11 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ---
 
 **Last updated:** 2025-01-27
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📋 Use Cases](use-cases.md)
+- [💻 Software Status](software-status.md) →
+- [📊 Business Model](business-model.md) →

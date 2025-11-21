@@ -5,6 +5,59 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Value Proposition](#value-proposition)
+  - [For Entrepreneurs](#for-entrepreneurs)
+  - [For Contractors](#for-contractors)
+  - [For Investors (LP)](#for-investors-lp)
+- [Revenue Sources](#revenue-sources)
+  - [1. DLE Software License Sales](#1-dle-software-license-sales)
+  - [2. Portfolio Company Governance Token Sales](#2-portfolio-company-governance-token-sales)
+  - [3. Capital Raised from LP Investors](#3-capital-raised-from-lp-investors)
+- [Expense Structure](#expense-structure)
+  - [Profit Distribution (15% / 15% / 70%)](#profit-distribution-15--15--70)
+- [Fund Treasury](#fund-treasury)
+  - [Initial Treasury Balance](#initial-treasury-balance)
+  - [Treasury Receipts](#treasury-receipts)
+  - [Liquidity Provision](#liquidity-provision)
+- [Licensing Model](#licensing-model)
+  - [On-Premises Deployment](#on-premises-deployment)
+- [Support and Development System](#support-and-development-system)
+  - [Blockchain-Based Organization](#blockchain-based-organization)
+- [Acceleration Program](#acceleration-program)
+  - [Iterative Growth Model](#iterative-growth-model)
+  - [Program Structure](#program-structure)
+  - [Process](#process)
+- [Ecosystem Architecture](#ecosystem-architecture)
+  - [1. Regional Operator Companies](#1-regional-operator-companies)
+  - [2. Smart Contract Deployment](#2-smart-contract-deployment)
+  - [3. Centralized Governance](#3-centralized-governance)
+- [5-Year Plan](#5-year-plan)
+  - [Goals](#goals)
+  - [Result](#result)
+- [Competitive Advantages](#competitive-advantages)
+  - [Key Indicators](#key-indicators)
+- [Financial Forecasts](#financial-forecasts)
+- [Risks and Mitigation](#risks-and-mitigation)
+  - [Regulatory Risks](#regulatory-risks)
+  - [Technological Risks](#technological-risks)
+  - [Market Risks](#market-risks)
+  - [Operational Risks](#operational-risks)
+- [Contacts](#contacts)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [🗺️ Roadmap](roadmap.md) →
+- [💻 Software Status](software-status.md) →
+
+---
+
 ## Overview
 
 VC HB3 Accelerator is a venture fund and software provider creating a global asset tokenization ecosystem through the Digital Legal Entity (DLE) platform. The business model is based on software license sales, investments in portfolio companies, and profit distribution among ecosystem participants.
@@ -378,6 +431,16 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 ## Contacts
 
 Detailed contact information: [CONTACTS.md](CONTACTS.md)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [🗺️ Roadmap](roadmap.md) →
+- [💻 Software Status](software-status.md) →
+- [↑ Back to Top](#table-of-contents)
 
 ---
 

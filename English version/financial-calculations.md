@@ -5,7 +5,51 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📈 Market Analysis](market-analysis.md) →
+- [📊 Business Model](business-model.md) →
+- [↑ Back to Top](#table-of-contents)
+
+---
+
 > ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. The probability of achieving optimistic forecasts may be very low (less than 10%). It is recommended to focus on conservative scenarios when making investment decisions. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).
+
+---
+
+## 📑 Table of Contents
+
+- [Calculation Methodology](#calculation-methodology)
+- [Treasury Balance and Token Price Calculation Mechanism](#treasury-balance-and-token-price-calculation-mechanism)
+  - [Initial Conditions](#initial-conditions)
+  - [Initial Treasury Balance](#initial-treasury-balance)
+  - [Initial Token Price](#initial-token-price)
+  - [Treasury Balance Growth](#treasury-balance-growth)
+  - [Two Token Price Levels](#two-token-price-levels)
+- [Token Liquidity Mechanism](#token-liquidity-mechanism)
+  - [Treasury Token Buyback](#treasury-token-buyback)
+  - [Lock-Up Period](#lock-up-period)
+  - [Secondary Token Market](#secondary-token-market)
+  - [Token Transfer Restrictions](#token-transfer-restrictions)
+  - [Liquidity Provision with 70% Investments](#liquidity-provision-with-70-investments)
+- [Profitability Calculation Examples](#profitability-calculation-examples)
+  - [Example 1: Investment 10,000 USDT (Minimum, Conservative Scenario, 5 Years)](#example-1-investment-10000-usdt-minimum-conservative-scenario-5-years)
+  - [Example 2: Investment 100,000 USDT (Maximum, Conservative Scenario, 5 Years)](#example-2-investment-100000-usdt-maximum-conservative-scenario-5-years)
+  - [Example 3: Investment 100,000 USDT (Maximum, Optimistic Scenario, 5 Years)](#example-3-investment-100000-usdt-maximum-optimistic-scenario-5-years)
+  - [Example 4: Investment 100,000 USDT (Maximum, Conservative Scenario with 10% Entrepreneurs, 5 Years)](#example-4-investment-100000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years)
+  - [Example 5: Investment 10,000 USDT (Minimum, Conservative Scenario with 10% Entrepreneurs, 5 Years)](#example-5-investment-10000-usdt-minimum-conservative-scenario-with-10-entrepreneurs-5-years)
+- [Summary: Key Conclusions on Financial Model](#summary-key-conclusions-on-financial-model)
+  - [Key Conclusions from Calculations](#key-conclusions-from-calculations)
+- [Additional Materials](#additional-materials)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📈 Market Analysis](market-analysis.md) →
+- [📊 Business Model](business-model.md) →
 
 ---
 
@@ -445,3 +489,12 @@ For more details on revenue sources: [for-investors.md](for-investors.md#revenue
 
 **Last updated:** 2025-01-27  
 **Version:** 1.0
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [📈 Market Analysis](market-analysis.md) →
+- [📊 Business Model](business-model.md) →
+- [↑ Back to Top](#table-of-contents)

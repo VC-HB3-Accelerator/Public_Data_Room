@@ -5,6 +5,62 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Investment Opportunity Overview](#investment-opportunity-overview)
+- [Investment Proposal](#investment-proposal)
+  - [VC HB3 Accelerator Governance Tokens](#vc-hb3-accelerator-governance-tokens)
+- [Revenue Sources](#revenue-sources)
+  - [1. Dividends from Treasury Receipts](#1-dividends-from-treasury-receipts)
+  - [2. Token Value Growth](#2-token-value-growth)
+  - [3. Portfolio Company Governance Token Portfolio](#3-portfolio-company-governance-token-portfolio)
+- [Financial Model](#financial-model)
+  - [Profit Distribution (15% / 15% / 70%)](#profit-distribution-15--15--70)
+  - [Token Liquidity and Value Growth](#token-liquidity-and-value-growth)
+- [Business Model and Fund Revenue Sources](#business-model-and-fund-revenue-sources)
+  - [1. DLE Software License Sales](#1-dle-software-license-sales)
+  - [2. Portfolio Company Governance Token Sales (Exits)](#2-portfolio-company-governance-token-sales-exits)
+  - [3. Capital Attraction from LP Investors](#3-capital-attraction-from-lp-investors)
+- [Governance Structure and Voting Mechanism](#governance-structure-and-voting-mechanism)
+- [5-Year Development Plan](#5-year-development-plan)
+- [Team and Governance Model](#team-and-governance-model)
+  - [Founder](#founder)
+  - [AI Assistant](#ai-assistant)
+  - [Token Holders (30% of Governance Tokens)](#token-holders-30-of-governance-tokens)
+  - [Flexible Expert Network](#flexible-expert-network)
+- [DLE Platform Status](#dle-platform-status)
+- [Market Analysis and Demand Justification](#market-analysis-and-demand-justification)
+  - [Brief Summary](#brief-summary)
+- [Risks and Mitigation](#risks-and-mitigation)
+  - [Regulatory Compliance](#regulatory-compliance)
+  - [Regulatory Risks](#regulatory-risks)
+  - [Technological Risks](#technological-risks)
+  - [Market Risks](#market-risks)
+  - [Operational Risks](#operational-risks)
+  - [Financial Risks](#financial-risks)
+  - [Key Person Risk](#key-person-risk)
+  - [Stress Tests and Alternative Scenarios](#stress-tests-and-alternative-scenarios)
+- [Due Diligence](#due-diligence)
+  - [Recommendations for Investors](#recommendations-for-investors)
+- [Investment Structure](#investment-structure)
+  - [Investment Size](#investment-size)
+  - [Investment Process](#investment-process)
+- [Profitability Calculation Examples](#profitability-calculation-examples)
+  - [Brief Summary](#brief-summary-1)
+- [Summary: Key Conclusions on Financial Model](#summary-key-conclusions-on-financial-model)
+- [Contacts](#contacts)
+- [Additional Materials](#additional-materials)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md) →
+- [📈 Market Analysis](market-analysis.md) →
+
+---
+
 ## Investment Opportunity Overview
 
 VC HB3 Accelerator is a venture fund and software provider creating a global asset tokenization ecosystem through the Digital Legal Entity (DLE) platform. The fund offers investors (Limited Partners, LP) the opportunity to purchase up to 30% of fund governance tokens and receive dividends from all treasury receipts.
@@ -727,3 +783,12 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 **Important Note:** Investments in cryptocurrencies and tokens involve high risks. Before making an investment decision, it is recommended to conduct thorough Due Diligence and consult with financial advisors. Past performance does not guarantee future returns.
 
 **Detailed Disclaimers and Warnings:** See [DISCLAIMERS.md](DISCLAIMERS.md)
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md) →
+- [📈 Market Analysis](market-analysis.md) →
+- [↑ Back to Top](#table-of-contents)

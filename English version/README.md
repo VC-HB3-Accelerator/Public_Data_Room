@@ -6,6 +6,8 @@ Documentation package for VC HB3 Accelerator project
 
 ## Document Navigation
 
+> 📍 **Documentation Map:** Complete overview of all documents and recommended reading paths see [DOCUMENTATION_MAP.md](DOCUMENTATION_MAP.md)
+
 ### 📋 For Investors (LP)
 
 **[for-investors.md](for-investors.md)** — Complete information on investment opportunities:

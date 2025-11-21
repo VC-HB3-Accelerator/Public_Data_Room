@@ -7,6 +7,22 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →
+
+---
+
 ## Program Overview
 
 **Online acceleration for entrepreneurs**, where **contractors selected by clients** help:
@@ -122,5 +138,13 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 ---
 
-**Last updated:** 2025-01-27  
+**Last updated:** 2025-01-27
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [🚀 For Entrepreneurs](for-entrepreneurs.md)
+- [💻 Software Status](software-status.md) →
+- [📋 Use Cases](use-cases.md) →  
 **Version:** 1.0
