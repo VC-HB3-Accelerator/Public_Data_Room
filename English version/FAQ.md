@@ -7,6 +7,7 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/FAQ.md)
 - [📖 Glossary](GLOSSARY.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →
@@ -246,6 +247,7 @@ Documents are provided for informational purposes. When using, copyright must be
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/FAQ.md)
 - [📖 Glossary](GLOSSARY.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →

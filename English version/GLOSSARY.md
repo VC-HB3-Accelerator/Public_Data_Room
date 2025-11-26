@@ -7,6 +7,7 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/GLOSSARY.md)
 - [❓ FAQ](FAQ.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →
@@ -174,6 +175,7 @@ Thorough review of a company or project before investing. It is recommended to c
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/GLOSSARY.md)
 - [❓ FAQ](FAQ.md)
 - [📞 Contacts](CONTACTS.md) →
 - [⚠️ Disclaimers](DISCLAIMERS.md) →

@@ -7,6 +7,7 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/DISCLAIMERS.md)
 - [← FAQ](FAQ.md)
 - [← Глоссарий](GLOSSARY.md)
 - [← Контакты](CONTACTS.md)
@@ -234,6 +235,7 @@ VC HB3 Accelerator, его основатели, сотрудники, парт�
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/DISCLAIMERS.md)
 - [← FAQ](FAQ.md)
 - [← Глоссарий](GLOSSARY.md)
 - [← Контакты](CONTACTS.md)

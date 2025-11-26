@@ -2,6 +2,7 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/software-status.md)
 - [🚀 Для предпринимателей](for-entrepreneurs.md)
 - [👨‍💻 Для подрядчиков](for-contractors.md)
 - [📊 Бизнес-модель](business-model.md) →
@@ -261,6 +262,7 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/software-status.md)
 - [🚀 Для предпринимателей](for-entrepreneurs.md)
 - [👨‍💻 Для подрядчиков](for-contractors.md)
 - [📊 Бизнес-модель](business-model.md) →

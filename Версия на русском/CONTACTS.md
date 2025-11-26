@@ -7,6 +7,7 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/CONTACTS.md)
 - [← FAQ](FAQ.md)
 - [← Глоссарий](GLOSSARY.md)
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →
@@ -70,6 +71,7 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
+- [🌍 English version](../English version/CONTACTS.md)
 - [← FAQ](FAQ.md)
 - [← Глоссарий](GLOSSARY.md)
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →

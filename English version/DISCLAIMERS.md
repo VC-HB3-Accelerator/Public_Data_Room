@@ -7,6 +7,7 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/DISCLAIMERS.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [← Contacts](CONTACTS.md)
@@ -234,6 +235,7 @@ By using the documents in this repository, you confirm that:
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/DISCLAIMERS.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [← Contacts](CONTACTS.md)

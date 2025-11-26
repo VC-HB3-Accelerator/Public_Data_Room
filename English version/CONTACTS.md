@@ -62,6 +62,8 @@ All project documents are available in this repository. See [README.md](README.m
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
+- [🌍 Русская версия](../Версия на русском/CONTACTS.md)
+- [🌍 Русская версия](../Версия на русском/CONTACTS.md)
 - [← FAQ](FAQ.md)
 - [← Glossary](GLOSSARY.md)
 - [⚠️ Disclaimers](DISCLAIMERS.md) →
