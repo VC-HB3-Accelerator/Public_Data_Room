@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/GLOSSARY.md)
 - [❓ FAQ](FAQ.md)
 - [📞 Контакты](CONTACTS.md) →
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →
@@ -175,7 +174,6 @@ CRM-система с интеграцией искусственного инт
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/GLOSSARY.md)
 - [❓ FAQ](FAQ.md)
 - [📞 Контакты](CONTACTS.md) →
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →

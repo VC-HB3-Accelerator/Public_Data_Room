@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-investors.md)
 - [📊 Бизнес-модель](business-model.md)
 - [💰 Финансовые расчеты](financial-calculations.md) →
 - [📈 Рыночный анализ](market-analysis.md) →
@@ -801,7 +800,6 @@ VC HB3 Accelerator — это венчурный фонд и поставщик 
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-investors.md)
 - [📊 Бизнес-модель](business-model.md)
 - [💰 Финансовые расчеты](financial-calculations.md) →
 - [📈 Рыночный анализ](market-analysis.md) →

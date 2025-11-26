@@ -9,7 +9,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/for-regulators.md)
 - [💻 Software Status](software-status.md)
 - [📊 Business Model](business-model.md) →
 - [🗺️ Roadmap](roadmap.md) →
@@ -357,7 +356,6 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/for-regulators.md)
 - [💻 Software Status](software-status.md)
 - [📊 Business Model](business-model.md) →
 - [🗺️ Roadmap](roadmap.md) →  

@@ -7,7 +7,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/governance.md)
 - [← For Investors](for-investors.md)
 - [📊 Business Model](business-model.md) →
 - [💰 Financial Calculations](financial-calculations.md) →
@@ -168,7 +167,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/governance.md)
 - [← For Investors](for-investors.md)
 - [📊 Business Model](business-model.md) →
 - [💰 Financial Calculations](financial-calculations.md) →

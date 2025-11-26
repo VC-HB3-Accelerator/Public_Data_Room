@@ -9,7 +9,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/accelerator-program.md)
 - [🚀 Для предпринимателей](for-entrepreneurs.md)
 - [💻 Статус разработки](software-status.md) →
 
@@ -127,7 +126,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/accelerator-program.md)
 - [🚀 Для предпринимателей](for-entrepreneurs.md)
 - [💻 Статус разработки](software-status.md) →
 

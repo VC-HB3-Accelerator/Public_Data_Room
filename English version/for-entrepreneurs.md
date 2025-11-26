@@ -7,7 +7,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/for-entrepreneurs.md)
 - [🚀 Acceleration Program](accelerator-program.md)
 - [💻 Software Status](software-status.md) →
 
@@ -282,6 +281,5 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/for-entrepreneurs.md)
 - [🚀 Acceleration Program](accelerator-program.md)
 - [💻 Software Status](software-status.md) →

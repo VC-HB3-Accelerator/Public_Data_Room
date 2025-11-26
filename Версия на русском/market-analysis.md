@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/market-analysis.md)
 - [← Для инвесторов](for-investors.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [📊 Бизнес-модель](business-model.md) →
@@ -38,7 +37,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/market-analysis.md)
 - [← Для инвесторов](for-investors.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [📊 Бизнес-модель](business-model.md) →

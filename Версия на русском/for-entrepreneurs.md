@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-entrepreneurs.md)
 - [🚀 Программа акселерации](accelerator-program.md)
 - [💻 Статус разработки](software-status.md) →
 
@@ -282,7 +281,6 @@ VC HB3 Accelerator — это венчурный фонд и платформа 
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-entrepreneurs.md)
 - [🚀 Программа акселерации](accelerator-program.md)
 - [💻 Статус разработки](software-status.md) →
 

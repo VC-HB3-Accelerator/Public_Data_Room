@@ -9,7 +9,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/accelerator-program.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [💻 Software Status](software-status.md) →
 
@@ -136,7 +135,6 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/accelerator-program.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [💻 Software Status](software-status.md) →
 **Version:** 1.0

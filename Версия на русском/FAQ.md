@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/FAQ.md)
 - [📖 Глоссарий](GLOSSARY.md)
 - [📞 Контакты](CONTACTS.md) →
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →
@@ -247,7 +246,6 @@ Digital Legal Entity (DLE) — это готовое к использовани
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/FAQ.md)
 - [📖 Глоссарий](GLOSSARY.md)
 - [📞 Контакты](CONTACTS.md) →
 - [⚠️ Дисклеймеры](DISCLAIMERS.md) →

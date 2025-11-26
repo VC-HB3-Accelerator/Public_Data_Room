@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/business-model.md)
 - [← Для инвесторов](for-investors.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [🗺️ Дорожная карта](roadmap.md) →
@@ -61,7 +60,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/business-model.md)
 - [← Для инвесторов](for-investors.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [🗺️ Дорожная карта](roadmap.md) →

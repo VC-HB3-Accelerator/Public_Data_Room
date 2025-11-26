@@ -8,7 +8,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/roadmap.md)
 - [📊 Бизнес-модель](business-model.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [💻 Статус разработки](software-status.md) →
@@ -30,7 +29,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/roadmap.md)
 - [📊 Бизнес-модель](business-model.md)
 - [💰 Финансовые расчеты](financial-calculations.md)
 - [💻 Статус разработки](software-status.md) →

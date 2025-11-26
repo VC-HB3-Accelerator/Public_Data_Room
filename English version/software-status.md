@@ -2,7 +2,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/software-status.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [👨‍💻 For Contractors](for-contractors.md)
 - [📊 Business Model](business-model.md) →
@@ -267,7 +266,6 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [🌍 Русская версия](../Версия на русском/software-status.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [👨‍💻 For Contractors](for-contractors.md)
 - [📊 Business Model](business-model.md) →

@@ -7,7 +7,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-contractors.md)
 - [💻 Статус разработки](software-status.md) →
 - [📊 Бизнес-модель](business-model.md) →
 
@@ -405,7 +404,6 @@
 
 **🧭 Навигация:**
 - [← К содержанию](README.md)
-- [🌍 English version](../English version/for-contractors.md)
 - [💻 Статус разработки](software-status.md) →
 - [📊 Бизнес-модель](business-model.md) →
 
