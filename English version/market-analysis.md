@@ -28,8 +28,8 @@
 - [Asset Tokenization Demand Justification](#asset-tokenization-demand-justification)
 - [Forecast Justification: From Conservative (10%) to Optimistic (40%) Scenarios](#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
   - [Development Forecast](#development-forecast)
-  - [Conservative Scenario (10%)](#conservative-scenario-10)
-  - [Optimistic Scenario (40%)](#optimistic-scenario-40)
+  - [Conservative Scenario (10% Entrepreneurs)](#conservative-scenario-10-entrepreneurs--more-realistic)
+  - [Optimistic Scenario (40% Entrepreneurs)](#optimistic-scenario-40-entrepreneurs--unlikely)
 - [Competitive Analysis](#competitive-analysis)
 - [Additional Materials](#additional-materials)
 

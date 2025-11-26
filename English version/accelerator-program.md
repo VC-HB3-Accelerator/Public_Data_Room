@@ -79,7 +79,7 @@
 
 **Pricing Plans and Terms:**
 
-Detailed information about pricing plans (Standard: 1,000 USDT, Premium: 10,000 USDT) and participation terms: [business-model.md](business-model.md#1-dle-software-license-sales) and [for-entrepreneurs.md](for-entrepreneurs.md#step-1-license-acquisition)
+Detailed information about pricing plans (Standard: 1,000 USDT, Premium: 10,000 USDT) and participation terms: [business-model.md](business-model.md#1-dle-software-license-sales) and [for-entrepreneurs.md](for-entrepreneurs.md#step-1-license-purchase)
 
 ### Step 2: Group Registration
 

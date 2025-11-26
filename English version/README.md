@@ -142,9 +142,9 @@ Documentation package for VC HB3 Accelerator project
 
 - Opening **100+ legal entities** in different countries
 - **21,000+ entrepreneurs** in the first accelerator
-- **Vision of the future:** 40% of all entrepreneurs worldwide by year 5 (133.2 million) — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
+- **Vision of the future:** 40% of all entrepreneurs worldwide by year 5 (133.2 million) — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
 - **280 groups** by business activity (4 cohorts × 70 groups)
-- **600 portfolio companies** (selected from accelerator participants, stages from Pre-seed to ICO) — see [conservative scenarios](for-investors.md#example-4-investment-100-000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years)
+- **600 portfolio companies** (selected from accelerator participants, stages from Pre-seed to ICO) — see [conservative scenarios](financial-calculations.md#example-4-investment-100000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years)
 - Global network of tokenized assets
 
 > ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).

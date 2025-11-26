@@ -120,7 +120,7 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 
 **Potential:**
 - Goal: 21,000+ entrepreneurs in first accelerator
-- By year 5: **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
+- By year 5: **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
 - Potential revenue: from 21,000,000 USDT (at 100% Standard) to 210,000,000 USDT (at 100% Premium) for first accelerator
 
 ### 2. Portfolio Company Governance Token Sales
@@ -195,7 +195,7 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 1. **Software Sales Profit:**
    - License sales (Standard: 1,000 USDT, Premium: 10,000 USDT)
    - Receipts from regional operator companies
-   - By year 5: **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
+   - By year 5: **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
 
 2. **Portfolio Company Governance Token Sales Profit (exits):**
    - Governance token sales upon investment exit
@@ -396,10 +396,10 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 **License Sales:**
 - **Year 1:** First accelerator (21,000 entrepreneurs)
   - Maximum: 14,000 Standard × 1,000 + 7,000 Premium × 10,000 = 84,000,000 USDT
-- **Year 5:** **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
+- **Year 5:** **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
   - Distribution by pricing (80% Standard, 20% Premium):
     - Optimistic scenario (40%): 372,960,000,000 USDT
-    - Conservative scenario (10%): 93,240,000,000 USDT (see [detailed calculations](for-investors.md#example-4-investment-100-000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years))
+    - Conservative scenario (10%): 93,240,000,000 USDT (see [detailed calculations](financial-calculations.md#example-4-investment-100000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years))
 
 **Portfolio Investments:**
 - **Initial Capital:** 984,000,000 × 70% = 688,800,000 USDT

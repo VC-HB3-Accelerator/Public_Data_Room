@@ -20,15 +20,15 @@
   - [VC HB3 Accelerator Governance Tokens](#vc-hb3-accelerator-governance-tokens)
 - [Revenue Sources](#revenue-sources)
   - [1. Dividends from Treasury Receipts](#1-dividends-from-treasury-receipts)
-  - [2. Token Value Growth](#2-token-value-growth)
+  - [2. Token Price Growth](#2-token-price-growth)
   - [3. Portfolio Company Governance Token Portfolio](#3-portfolio-company-governance-token-portfolio)
 - [Financial Model](#financial-model)
   - [Profit Distribution (15% / 15% / 70%)](#profit-distribution-15--15--70)
-  - [Token Liquidity and Value Growth](#token-liquidity-and-value-growth)
+  - [Liquidity Provision and Token Price Growth](#liquidity-provision-and-token-price-growth)
 - [Business Model and Fund Revenue Sources](#business-model-and-fund-revenue-sources)
   - [1. DLE Software License Sales](#1-dle-software-license-sales)
   - [2. Portfolio Company Governance Token Sales (Exits)](#2-portfolio-company-governance-token-sales-exits)
-  - [3. Capital Attraction from LP Investors](#3-capital-attraction-from-lp-investors)
+  - [3. Capital Raised from LP Investors](#3-capital-raised-from-lp-investors)
 - [Governance Structure and Voting Mechanism](#governance-structure-and-voting-mechanism)
 - [5-Year Development Plan](#5-year-development-plan)
 - [Team and Governance Model](#team-and-governance-model)
@@ -54,7 +54,7 @@
   - [Investment Size](#investment-size)
   - [Investment Process](#investment-process)
 - [Profitability Calculation Examples](#profitability-calculation-examples)
-  - [Brief Summary](#brief-summary-1)
+  - [Brief Summary](#brief-summary)
 - [Summary: Key Conclusions on Financial Model](#summary-key-conclusions-on-financial-model)
 - [Contacts](#contacts)
 - [Additional Materials](#additional-materials)
@@ -335,7 +335,7 @@ VC HB3 Accelerator is a venture fund and software provider creating a global ass
 **Key Goals:**
 - Attract 21,000+ entrepreneurs to first accelerator
 - By year 5: **Vision of the future:** 40% of all entrepreneurs worldwide (133.2 million) — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios)
-- Select and invest in 600 portfolio companies from accelerator participants (stages from Pre-seed to ICO) — see [conservative scenarios](financial-calculations.md#example-4-investment-100-000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years)
+- Select and invest in 600 portfolio companies from accelerator participants (stages from Pre-seed to ICO) — see [conservative scenarios](financial-calculations.md#example-4-investment-100000-usdt-maximum-conservative-scenario-with-10-entrepreneurs-5-years)
 - **Goal:** Collect and sell portfolio over 5 years to launch next accelerator
 - Create global network of tokenized assets
 

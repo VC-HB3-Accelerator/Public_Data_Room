@@ -144,7 +144,7 @@ The fund interacts with regulators in special economic zones in two directions:
 
 **Pilot Projects:**
 - Piloting projects with regulators for launching specialized L2 and stablecoins
-- Expansion planned through acceleration program (21,000+ entrepreneurs in first accelerator, **vision of the future:** 40% of all entrepreneurs worldwide by year 5 — see [forecasts and scenarios](for-investors.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios))
+- Expansion planned through acceleration program (21,000+ entrepreneurs in first accelerator, **vision of the future:** 40% of all entrepreneurs worldwide by year 5 — see [forecasts and scenarios](market-analysis.md#forecast-justification-from-conservative-10-to-optimistic-40-scenarios))
 
 ### 2.5. Licensing Model
 
