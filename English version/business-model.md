@@ -5,6 +5,15 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [🗺️ Roadmap](roadmap.md) →
+- [💻 Software Status](software-status.md) →
+
+---
+
 ## 📑 Table of Contents
 
 - [Overview](#overview)

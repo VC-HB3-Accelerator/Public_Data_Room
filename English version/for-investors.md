@@ -5,6 +5,14 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md) →
+- [📈 Market Analysis](market-analysis.md) →
+
+---
+
 ## 📑 Table of Contents
 
 - [Investment Opportunity Overview](#investment-opportunity-overview)
@@ -759,7 +767,6 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 - **Financial Calculations:** [financial-calculations.md](financial-calculations.md)
 - **Market Analysis:** [market-analysis.md](market-analysis.md)
 - **Governance Mechanism:** [governance.md](governance.md)
-- **Use Cases:** [use-cases.md](use-cases.md)
 
 ### Main Documents
 

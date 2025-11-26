@@ -14,10 +14,6 @@
 - [🗺️ Roadmap](roadmap.md) →
 
 ---
-
-**🧭 Navigation:**
-- [← Back to Contents](README.md)
-- [💻 Software Status](software-status.md)
 - [📊 Business Model](business-model.md) →
 - [🗺️ Roadmap](roadmap.md) →
 

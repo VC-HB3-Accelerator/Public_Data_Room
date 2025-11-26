@@ -5,6 +5,15 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [← For Investors](for-investors.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [📊 Business Model](business-model.md) →
+- [🗺️ Roadmap](roadmap.md) →
+
+---
+
 > ⚠️ **Important:** All forecasts are a vision of the future, not a guarantee. For more details, see [DISCLAIMERS.md](DISCLAIMERS.md#forecasts-and-vision-of-the-future).
 
 ---

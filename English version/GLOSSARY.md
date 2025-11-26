@@ -5,6 +5,14 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [❓ FAQ](FAQ.md)
+- [📞 Contacts](CONTACTS.md) →
+- [⚠️ Disclaimers](DISCLAIMERS.md) →
+
+---
+
 ## Tokens and Blockchain
 
 ### Governance Tokens
@@ -161,6 +169,14 @@ Practice of a developer company using its own product. VC HB3 Accelerator uses t
 
 ### Due Diligence
 Thorough review of a company or project before investing. It is recommended to conduct Due Diligence before investing in VC HB3 Accelerator.
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [❓ FAQ](FAQ.md)
+- [📞 Contacts](CONTACTS.md) →
+- [⚠️ Disclaimers](DISCLAIMERS.md) →
 
 ---
 

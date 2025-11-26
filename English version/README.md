@@ -6,8 +6,6 @@ Documentation package for VC HB3 Accelerator project
 
 ## Document Navigation
 
-> 📍 **Documentation Map:** Complete overview of all documents and recommended reading paths see [DOCUMENTATION_MAP.md](DOCUMENTATION_MAP.md)
-
 ### 📋 For Investors (LP)
 
 **[for-investors.md](for-investors.md)** — Complete information on investment opportunities:
@@ -31,7 +29,6 @@ Documentation package for VC HB3 Accelerator project
 - DLE platform value proposition
 - Acceleration program
 - Registration and usage process
-- Use cases
 
 ### 👨‍💻 For Contractors
 
@@ -97,13 +94,6 @@ Documentation package for VC HB3 Accelerator project
 - Balance of founder and investor rights
 - Information and reporting rights
 - Usage examples
-
-**[use-cases.md](use-cases.md)** — Platform use cases:
-- Examples for entrepreneurs
-- Contractor work examples
-- Investment examples
-- Regulator cooperation examples
-- Real-world use cases
 
 ### 📖 Reference Materials
 

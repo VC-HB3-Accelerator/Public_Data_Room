@@ -6,6 +6,14 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📊 Business Model](business-model.md)
+- [💰 Financial Calculations](financial-calculations.md)
+- [💻 Software Status](software-status.md) →
+
+---
+
 ## 📑 Table of Contents
 
 - [Overview](#overview)

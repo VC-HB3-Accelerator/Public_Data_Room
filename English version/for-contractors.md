@@ -7,15 +7,6 @@
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [📋 Use Cases](use-cases.md)
-- [💻 Software Status](software-status.md) →
-- [📊 Business Model](business-model.md) →
-
----
-
-**🧭 Navigation:**
-- [← Back to Contents](README.md)
-- [📋 Use Cases](use-cases.md)
 - [💻 Software Status](software-status.md) →
 - [📊 Business Model](business-model.md) →
 
@@ -417,6 +408,5 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
-- [📋 Use Cases](use-cases.md)
 - [💻 Software Status](software-status.md) →
 - [📊 Business Model](business-model.md) →

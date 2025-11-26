@@ -264,14 +264,14 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 
 ---
 
-**Last updated:** 2025-01-27
-
----
-
 **🧭 Navigation:**
 - [← Back to Contents](README.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [👨‍💻 For Contractors](for-contractors.md)
-- [📊 Business Model](business-model.md) →  
+- [📊 Business Model](business-model.md) →
+
+---
+
+**Last updated:** 2025-01-27  
 **Version:** 3.0  
 **Status:** Centralized document on DLE software development and usage status

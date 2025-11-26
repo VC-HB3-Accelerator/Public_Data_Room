@@ -5,6 +5,14 @@
 
 ---
 
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📖 Glossary](GLOSSARY.md)
+- [📞 Contacts](CONTACTS.md) →
+- [⚠️ Disclaimers](DISCLAIMERS.md) →
+
+---
+
 ## General Questions
 
 ### What is VC HB3 Accelerator?
@@ -233,6 +241,14 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 ### Can documents be used for presentations?
 
 Documents are provided for informational purposes. When using, copyright must be respected and source must be indicated.
+
+---
+
+**🧭 Navigation:**
+- [← Back to Contents](README.md)
+- [📖 Glossary](GLOSSARY.md)
+- [📞 Contacts](CONTACTS.md) →
+- [⚠️ Disclaimers](DISCLAIMERS.md) →
 
 ---
 

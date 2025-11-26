@@ -10,7 +10,6 @@
 - [← For Investors](for-investors.md)
 - [📈 Market Analysis](market-analysis.md) →
 - [📊 Business Model](business-model.md) →
-- [↑ Back to Top](#table-of-contents)
 
 ---
 
