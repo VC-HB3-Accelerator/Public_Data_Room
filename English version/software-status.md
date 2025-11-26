@@ -268,7 +268,7 @@ Detailed contact information: [CONTACTS.md](CONTACTS.md)
 - [← Back to Contents](README.md)
 - [🚀 For Entrepreneurs](for-entrepreneurs.md)
 - [👨‍💻 For Contractors](for-contractors.md)
-- [📊 Business Model](business-model.md) →
+- [📊 Business Model](business-model.md) →  
 
 ---
 

@@ -34,7 +34,6 @@ Understand or integrate with tokenization infrastructure.
 
 ## 🌍 Documentation
 
-- **🇬🇧 English:** [English version/](https://github.com/VC-HB3-Accelerator/.github/tree/main/English%20version)
 - **🇷🇺 Русская версия:** [Версия на русском/](https://github.com/VC-HB3-Accelerator/.github/tree/main/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)
 
 ---
