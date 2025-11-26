@@ -4,7 +4,7 @@
 
 We're creating the infrastructure for the next generation of businesses, enabling entrepreneurs worldwide to tokenize their assets, access global markets, and accelerate their growth through blockchain technology.
 
-**📦 DLE Platform:** [github.com/VC-HB3-Accelerator/DLE](https://github.com/VC-HB3-Accelerator/DLE) — Digital Legal Entity DApp for Business
+**📦 DLE Platform:** [github.com/VC-HB3-Accelerator/DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/README.en.md) — Digital Legal Entity DApp for Business (open-source)
 
 ---
 
@@ -64,7 +64,7 @@ Understand or integrate with tokenization infrastructure.
 ## 🔗 Quick Links
 
 - **🌐 Website:** https://hb3-accelerator.com
-- **📦 DLE Repository:** https://github.com/VC-HB3-Accelerator/DLE
+- **📦 DLE Repository:** https://github.com/VC-HB3-Accelerator/DLE/blob/main/README.en.md
 - **📚 Documentation:** https://github.com/VC-HB3-Accelerator/.github
 - **📧 Email:** info@hb3-accelerator.com
 
@@ -74,7 +74,7 @@ Understand or integrate with tokenization infrastructure.
 
 ### 🚀 Main Projects
 
-- **[DLE](https://github.com/VC-HB3-Accelerator/DLE)** — Digital Legal Entity DApp for Business (Production-ready tokenization platform)
+- **[DLE](https://github.com/VC-HB3-Accelerator/DLE/blob/main/README.en.md)** — Digital Legal Entity DApp for Business (Production-ready tokenization platform)
 - **[Documentation](https://github.com/VC-HB3-Accelerator/.github)** — Complete documentation package
 
 ---
