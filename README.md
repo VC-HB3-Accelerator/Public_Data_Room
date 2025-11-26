@@ -14,13 +14,6 @@ We're building the infrastructure for the next generation of businesses, enablin
 
 ## 🌍 Choose Your Language
 
-We provide complete documentation in two languages:
-
-### 🇬🇧 English Version
-
-**[📚 Browse English Documentation](English version/README.md)**  
-Complete documentation package in English with full navigation.
-
 ### 🇷🇺 Русская версия
 
 **[📚 Перейти к русской документации](Версия на русском/README.md)**  
