@@ -13,22 +13,22 @@ We're creating the infrastructure for the next generation of businesses, enablin
 ### 💰 For Investors (Limited Partners)
 Explore investment opportunities in the tokenization ecosystem.
 
-**👉 Start here:** [English version/for-investors.md](English%20version/for-investors.md)
+**👉 Start here:** [English version/for-investors.md](../English%20version/for-investors.md)
 
 ### 🚀 For Entrepreneurs
 Tokenize your business assets or join our acceleration program.
 
-**👉 Start here:** [English version/for-entrepreneurs.md](English%20version/for-entrepreneurs.md)
+**👉 Start here:** [English version/for-entrepreneurs.md](../English%20version/for-entrepreneurs.md)
 
 ### 👨‍💻 For Contractors
 Work with blockchain-based tokenization projects.
 
-**👉 Start here:** [English version/for-contractors.md](English%20version/for-contractors.md)
+**👉 Start here:** [English version/for-contractors.md](../English%20version/for-contractors.md)
 
 ### 🏛️ For Regulators
 Understand or integrate with tokenization infrastructure.
 
-**👉 Start here:** [English version/for-regulators.md](English%20version/for-regulators.md)
+**👉 Start here:** [English version/for-regulators.md](../English%20version/for-regulators.md)
 
 ---
 
@@ -79,7 +79,7 @@ Understand or integrate with tokenization infrastructure.
 
 ---
 
-> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, see [DISCLAIMERS.md](English%20version/DISCLAIMERS.md).
+> ⚠️ **Important:** All forecasts represent our vision of the future, not a guarantee. For detailed risk information, see [DISCLAIMERS.md](../English%20version/DISCLAIMERS.md).
 
 ---
 
